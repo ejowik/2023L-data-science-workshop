@@ -1,0 +1,85 @@
+{
+	"formatVersion": 1,
+	"appVersion": "0.52.4",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "OdzD7qQLHeV2",
+			"notePath": [
+				"OdzD7qQLHeV2"
+			],
+			"title": "22.04.2023",
+			"notePosition": 20,
+			"isExpanded": false,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [
+				{
+					"type": "relation",
+					"name": "imageLink",
+					"value": "lipwChorw2dF",
+					"isInheritable": false,
+					"position": 1
+				}
+			],
+			"format": "markdown",
+			"dataFileName": "22.04.2023.md",
+			"dirFileName": "22.04.2023",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "GxwKz0N6tXiy",
+					"notePath": [
+						"OdzD7qQLHeV2",
+						"GxwKz0N6tXiy"
+					],
+					"title": "1f642.png",
+					"notePosition": 10,
+					"isExpanded": false,
+					"type": "image",
+					"mime": "image/png",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "originalFileName",
+							"value": "1f642.png",
+							"isInheritable": false,
+							"position": 1000
+						},
+						{
+							"type": "label",
+							"name": "imageUrl",
+							"value": "https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/1f642.png",
+							"isInheritable": false,
+							"position": 1000
+						}
+					],
+					"dataFileName": "1f642.png"
+				},
+				{
+					"isClone": false,
+					"noteId": "lipwChorw2dF",
+					"notePath": [
+						"OdzD7qQLHeV2",
+						"lipwChorw2dF"
+					],
+					"title": "image.png",
+					"notePosition": 20,
+					"isExpanded": false,
+					"type": "image",
+					"mime": "image/png",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "originalFileName",
+							"value": "image.png",
+							"isInheritable": false,
+							"position": 1000
+						}
+					],
+					"dataFileName": "image.png"
+				}
+			]
+		}
+	]
+}
