@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+libs/YOLOX/artifacts/
+libs/YOLOX/logs/
+artifacts/
+logs/
+models/
+data/
