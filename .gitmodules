@@ -1,0 +1,3 @@
+[submodule "libs/YOLOX-data-science-workshop"]
+	path = libs/YOLOX-data-science-workshop
+	url = git@github.com:marneusz/YOLOX-data-science-workshop.git
