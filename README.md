@@ -54,3 +54,13 @@ python tools/train.py -f exps/dsw/yolox_s_dsw.py \            # chosen experimen
                                wandb-num_eval_images 5 \
                                wandb-log_checkpoints True 
 ```
+
+### Memory Leak 
+
+- https://github.com/Megvii-BaseDetection/YOLOX/issues/103
+- https://github.com/Megvii-BaseDetection/YOLOX/pull/216
+- https://github.com/Megvii-BaseDetection/YOLOX/issues/114
+
+
+### Useful Materials
+- [Fast inference](https://dicksonneoh.com/portfolio/how_to_10x_your_od_model_and_deploy_50fps_cpu/#-modeling-with-yolox)
