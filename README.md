@@ -9,8 +9,8 @@ https://aigeekprogrammer.com/pl/yolo-szybka-detekcja-klasyfikacja-obiektow/
 https://public.roboflow.com/object-detection/hard-hat-workers
 
 ## To Do
-- [ ] Wyjaśnienie kwestii ewaluacji z p. Legierskim (czy na pewno accuracy, może "pożyczyć" evaluator, czego używali wcześniej do kasków) <- **Ela**
-- [ ] Przejrzeć i wybrać augmentacje <- **Bartek**
+- [x] Wyjaśnienie kwestii ewaluacji z p. Legierskim (czy na pewno accuracy, może "pożyczyć" evaluator, czego używali wcześniej do kasków) <- **Ela**
+- [x] Przejrzeć i wybrać augmentacje <- **Bartek**
 - [ ] Etykiety danych od Orange <- **Mateusz K**
 - [ ] Testy wytrenowanych modeli na danych od Orange <- **Bartek** / **Mateusz W5**
 - [ ] Przygotować Dockerfile do treningu dla naszego repo (w środku pobranie danych, clone repo, postawienie środowiska) <- **Mateusz W5**
