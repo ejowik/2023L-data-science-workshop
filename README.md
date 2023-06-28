@@ -8,28 +8,15 @@ Create and validate a model which will detect and classify objects based on imag
 https://aigeekprogrammer.com/pl/yolo-szybka-detekcja-klasyfikacja-obiektow/
 https://public.roboflow.com/object-detection/hard-hat-workers
 
-## To Do
-- [x] Wyjaśnienie kwestii ewaluacji z p. Legierskim (czy na pewno accuracy, może "pożyczyć" evaluator, czego używali wcześniej do kasków) <- **Ela**
-- [x] Przejrzeć i wybrać augmentacje <- **Bartek**
-- [ ] Etykiety danych od Orange <- **Mateusz K**
-- [ ] Testy wytrenowanych modeli na danych od Orange <- **Bartek** / **Mateusz W5**
-- [ ] Przygotować Dockerfile do treningu dla naszego repo (w środku pobranie danych, clone repo, postawienie środowiska) <- **Mateusz W5**
-- [ ] Dokumentacja o danych <- **Ela**
-- [ ] Manual <- **all**
 
-## Dataset
-
-TO DO
-
-## Manual (in progress)
-
+## Manual
 
 ### YOLOX Code & Repository
 The original repository was forked to [YOLOX-data-science-workshop](https://github.com/marneusz/YOLOX-data-science-workshop) and is used as a submodule in `libs/` directory. There are all the necessary changes and adjustments for our dataset.
 
 ### Dataset Paths and Structure
 
-Our split dataset located in [Google Drive](https://drive.google.com/drive/folders/1KufKNQjidhyof_Y2MBmjcDlDlXcvlCCj) should be placed in `libs/YOLOX-data-science-workshop/datasets/`. The structure of the dataset's directory `dsw` should be following
+Our split dataset and final model are located in [Google Drive](https://drive.google.com/drive/folders/1KufKNQjidhyof_Y2MBmjcDlDlXcvlCCj) should be placed in `libs/YOLOX-data-science-workshop/datasets/`. The structure of the dataset's directory `dsw` should be following
 
 ```
 ├── libs                    
@@ -39,10 +26,6 @@ Our split dataset located in [Google Drive](https://drive.google.com/drive/folde
 |   |   |   ├── train                        # Training images
 |   |   |   ├── val                          # Validation images
 ```
-
-### Weights & Biases Project
-
-TO DO
 
 ### Test Experiment with WandB Support
 Visit [wandb.ai](wandb.ai) to see the metrics, artifacts, and experiments' details.
