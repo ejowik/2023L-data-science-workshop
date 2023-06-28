@@ -18,6 +18,17 @@ https://public.roboflow.com/object-detection/hard-hat-workers
 
 ## Manual
 
+### Classes in the Final Model
+
+```
+COCO_CLASSES = (
+  "head_nohelmet",
+  "helmet",
+  "person",
+  "vest"
+)
+```
+
 ### YOLOX Code & Repository
 The original repository was forked to [YOLOX-data-science-workshop](https://github.com/marneusz/YOLOX-data-science-workshop) and is used as a submodule in `libs/` directory. There are all the necessary changes and adjustments for our dataset.
 
