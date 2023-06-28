@@ -13,7 +13,7 @@ https://public.roboflow.com/object-detection/hard-hat-workers
 - [Report](docs/PPE-Detection-report.pdf)
 - [Presentation](docs/PPE-Detection-presentation.pdf)
 - [Data without added annotations](https://drive.google.com/drive/folders/1KufKNQjidhyof_Y2MBmjcDlDlXcvlCCj?usp=sharing)
-- TODO: Final data
+- [Final data named `scenario_4_data.zip`](https://drive.google.com/drive/folders/1KufKNQjidhyof_Y2MBmjcDlDlXcvlCCj?usp=sharing)
 - [Final model in all formats](https://drive.google.com/drive/folders/1OzeRqiaTeE69ef2YNW1rdbeQh6ylCmgM?usp=sharing)
 
 ## Manual
